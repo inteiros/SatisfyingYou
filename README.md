@@ -1,6 +1,9 @@
-Satisfying You is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Satisfying You
 
-# Getting Started
+Satisfying You is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli) and for the database and authentication we used [**Google Firebase**](https://firebase.google.com).
+With this mobile app you can create your account and then log events so users can rate them and see plotted analytics.
+
+## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
